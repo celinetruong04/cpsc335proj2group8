@@ -1,6 +1,9 @@
 Celine Truong (celinetruong@csu.fullerton.edu)
+
 Michael Do (michaeldo2004@csu.fullerton.edu)
+
 Adrian Bautista (adrian.bautista@csu.fullerton.edu)
+
 Kanji Oyama (Kanjioyama@csu.fullerton.edu)
 
 How to Execute Program for Project 2:
